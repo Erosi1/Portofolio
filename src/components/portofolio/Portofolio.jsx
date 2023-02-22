@@ -6,6 +6,7 @@ import IMG3 from '../../assets/chicken.png'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
+import res from '../../assets/restaurant.mp4'
 
 const data = [
   {
@@ -13,7 +14,7 @@ const data = [
     image:IMG1,
     title:'Expense Tracker- Wallet App',
     github:'https://github.com/Erosi1/Projekti/tree/master',
-    demo:'https://dribble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    demo:''
   },
   {
     id:2,
@@ -27,7 +28,7 @@ const data = [
     image:IMG3,
     title:'Restaurant App Delivery System',
     github:'https://github.com/Erosi1/Restaurant',
-    demo:'https://dribble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    demo:res
 },
 
 
