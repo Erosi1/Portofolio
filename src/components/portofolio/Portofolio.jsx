@@ -6,7 +6,9 @@ import IMG3 from '../../assets/chicken.png'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
-import res from '../../assets/restaurant.mp4'
+import res from '../../assets/restauranti.mp4'
+import fit from '../../assets/fitness_Trim.mp4'
+import exp from '../../assets/expensetracker.mp4'
 
 const data = [
   {
@@ -14,14 +16,14 @@ const data = [
     image:IMG1,
     title:'Expense Tracker- Wallet App',
     github:'https://github.com/Erosi1/Projekti/tree/master',
-    demo:''
+    demo:exp
   },
   {
     id:2,
     image:IMG2,
     title:'Fitness App - Track your workouts',
     github:'https://github.com/Erosi1/FitnessApp',
-    demo:'https://dribble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo:fit
 },
 {
   id:3,
