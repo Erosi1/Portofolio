@@ -19,14 +19,14 @@ const data = [
     id:2,
     image:IMG2,
     title:'Fitness App - Track your workouts',
-    github:'https://github.com',
+    github:'https://github.com/Erosi1/FitnessApp',
     demo:'https://dribble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
 },
 {
   id:3,
     image:IMG3,
     title:'Restaurant App Delivery System',
-    github:'https://github.com',
+    github:'https://github.com/Erosi1/Restaurant',
     demo:'https://dribble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
 },
 
